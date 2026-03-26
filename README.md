@@ -17,6 +17,7 @@ trends, and revenue patterns.
 
 - Day 1: Descriptive stats + distributions
 - Day 2: probability + Bayes theorem
+- Day 3: hypothesis testing + confidence intervals
 
 ## Key Findings
 
@@ -31,8 +32,6 @@ trends, and revenue patterns.
 
 ## Tools Used
 
-Python, Pandas, Matplotlib, Seaborn, Jupyter Notebook
-
 ```
-
+Python, Pandas, Matplotlib, Seaborn, Jupyter Notebook
 ```
