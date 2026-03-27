@@ -18,6 +18,7 @@ trends, and revenue patterns.
 - Day 1: Descriptive stats + distributions
 - Day 2: probability + Bayes theorem
 - Day 3: hypothesis testing + confidence intervals
+- Day 4: advanced pandas + feature engineering
 
 ## Key Findings
 
