@@ -19,6 +19,7 @@ trends, and revenue patterns.
 - Day 2: probability + Bayes theorem
 - Day 3: hypothesis testing + confidence intervals
 - Day 4: advanced pandas + feature engineering
+- Day 5: intermediate + advanced SQL
 
 ## Key Findings
 
