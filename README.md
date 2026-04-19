@@ -9,8 +9,8 @@ trends, and revenue patterns.
 ## Dataset
 
 - Source: Kaggle — Retail Sales Dataset
+- From sklearn.datasets import fetch_california_housing
 - Link: https://www.kaggle.com/datasets/...
-- Rows: (fill in after loading)
 - Columns: Date, Category, Gender, Age, Total Amount
 
 ## What I Did
@@ -20,6 +20,7 @@ trends, and revenue patterns.
 - Day 3: hypothesis testing + confidence intervals
 - Day 4: advanced pandas + feature engineering
 - Day 5: intermediate + advanced SQL
+- Day 6: EDA master
 
 ## Key Findings
 
