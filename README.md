@@ -20,7 +20,7 @@ trends, and revenue patterns.
 - Day 3: hypothesis testing + confidence intervals
 - Day 4: advanced pandas + feature engineering
 - Day 5: intermediate + advanced SQL
-- Day 6: EDA master
+- Day 6: EDA master - univariate to multivariate
 
 ## Key Findings
 
